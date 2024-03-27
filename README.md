@@ -47,6 +47,7 @@ jupyter notebook
 ```
 4. Open and run the `stock_prediction_ltsm.ipynb` notebook.
 
+This code is inspired by Kuriko I. [Stock Price Prediction Using Deep Learning LSTM Network](https://www.linkedin.com/pulse/stock-price-prediction-using-deep-learning-lstm-network-kuriko-iwai-gdzgc/?utm_source=share&utm_medium=guest_mobile_web&utm_campaign=copy&fbclid=IwAR3BKny2Ji0VJoMjUsbLY-LSHHFsGTImdI7Oggy3jmKN3-F-abLGDDgqHW4_aem_ASQgZIM0tiWHGazOS55-sRHzVgGQklphOD6Gsa517zv0LdKQjn2tbqSqrtm6q2nriBBVPdLJD-g4MFOCMNh7MNm8)
 ---
 
 ## Acknowledgements
